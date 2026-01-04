@@ -1,0 +1,5 @@
+streamlit
+playwright
+yt-dlp
+beautifulsoup4
+nest_asyncio
